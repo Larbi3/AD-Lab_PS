@@ -1,6 +1,6 @@
 # ActiveDirectoryLab
 
-In this lab, the primary goal is to establish an Active Directory environment within VMware, including the bulk creation of users. The following section provides a visual representation of the processes, accompanied by a brief step-by-step instructions outlining each stage of the setup.
+In this lab, the primary goal is to mimic an enterprise environment through the establishment of an active directory environment within VMware and the bulk creation of users. The following section provides a visual representation of the processes, accompanied by brief step-by-step instructions outlining each stage of the setup.
 
 ![image1](https://github.com/Larbi3/AD-Lab_PS/assets/133678071/7389b853-116d-468a-b582-d692f362a51c)
 
